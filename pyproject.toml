@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "fc-bot-template"
+version = "0.1.0"
+description = "Scaffold for a farcaster bot"
+authors = ["Mason Hall <masonhall@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+farcaster = "^0.6.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
