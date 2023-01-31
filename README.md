@@ -10,6 +10,8 @@ tags:
 
 This example starts a Farcaster bot using [farcaster-py](https://github.com/a16z/farcaster-py).
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/VoQH_z?referralCode=ifkIie)
+
 ## ✨ Features
 
 - Python
