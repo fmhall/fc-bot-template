@@ -570,14 +570,14 @@ test = ["pytest (>=6)"]
 
 [[package]]
 name = "farcaster"
-version = "0.6.1"
+version = "0.6.2"
 description = "farcaster-py is a Python SDK for the Farcaster Protocol"
 category = "main"
 optional = false
 python-versions = ">3.7.1,<4.0.0"
 files = [
-    {file = "farcaster-0.6.1-py3-none-any.whl", hash = "sha256:1b8fb3878d069aa3c7a93a3d0ebc7f3e8186cbf353c20f6f5e3bbbd4d91d954c"},
-    {file = "farcaster-0.6.1.tar.gz", hash = "sha256:3a93888a49e3c5665f5460fa2e2fadcb794ac5569ea7c338ddb2a1e98ba26589"},
+    {file = "farcaster-0.6.2-py3-none-any.whl", hash = "sha256:f637f768e2b7c326e2865b8129d779551156c184d59f5775f7442268a252edbb"},
+    {file = "farcaster-0.6.2.tar.gz", hash = "sha256:b10e988ed6d28c647d07f6ec1d5280dea70fa5be032eebb8cf5c9359db639325"},
 ]
 
 [package.dependencies]
@@ -1028,4 +1028,4 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "bc7011eb6286c7514c63189063fa9d2a972fb2de446ccc7208ffa05c7cda7d05"
+content-hash = "21febf64e6d48990d3dd482013edab00c192a53f2b8bae7b76dab2e20ec8fd59"
